@@ -1,11 +1,11 @@
 {
   "swagger": "2.0",
   "info": {
-    "title": "School Payments API",
+    "title": "Edviron Payments API",
     "description": "REST API for managing transactions and payments",
     "version": "1.0.0"
   },
-  "host": "https://edviron-gateway-backend.vercel.app",
+  "host": "https://edviron-assessment-backend.vercel.app",
   "basePath": "/",
   "schemes": [
     "https"

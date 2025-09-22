@@ -11,7 +11,7 @@ It supports:
 - Saving orders and statuses in MongoDB
 
 ### Documentation:
-Link: https://edviron-gateway-backend.vercel.app/docs
+Link:  https://edviron-assessment-backend.vercel.app/docs
 
 ## Screenshots & Demo
 
@@ -146,4 +146,4 @@ Backend: Can be deployed on Render/Heroku/AWS (must expose /payments/create-paym
 
 Ensure MongoDB is accessible (use Atlas in production)
 
-Configure webhook URL in Cashfree dashboard → point it to https://your-backend.com/webhook
+Configure webhook URL in Cashfree dashboard → point it to  https://edviron-assessment-backend.vercel.app/webhook

@@ -19,8 +19,8 @@ const app = express();
 // app.use(cors());
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://edviron-gateway.vercel.app",
-  "https://edviron-gateway-backend.vercel.app",
+  "https://edviron-assessment-azure.vercel.app",
+  "https://edviron-assessment-backend.vercel.app",
 ];
 
 app.use(
